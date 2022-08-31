@@ -18,3 +18,7 @@ Basically what this module does is via the ping command and a one-second timer c
 The second and last part of this module is port scanning, it takes the active hosts found in the previous part of the module, and looks at their open ports.
 
 ![image](https://user-images.githubusercontent.com/79543461/187674337-5ef7b1a1-8eaf-4436-aa93-7ce2e70d4fbd.png)
+
+Thanks.
+
+S12:)
